@@ -1,6 +1,6 @@
 # 2LIVE
 
-2LIVE is a browser extension that helps us to watch a live stream which is non-watchable with youtube or twitch streams(such as apple events or nintento showcases).
+2LIVE is an browser extension allows you to watch another youtube live stream that your streamer can't show on live stream.
 
 - Extension is tagged as "featured" by google editors 
 
