@@ -1,0 +1,15 @@
+#liveChat{
+    height: 50vh;
+}
+
+#youtube-iframe{
+    height: 30vh;
+}
+
+#liveStreamToWatch{
+    height: 80vh !important;
+}
+
+#below{
+    margin-top: 10px !important;
+}

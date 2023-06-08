@@ -1,0 +1,6 @@
+.player__wrapper{
+    width: 60vw !important;
+}
+#saranApp{
+    display: flex;
+}

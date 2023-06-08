@@ -1,0 +1,55 @@
+.opacity-off{opacity:0;}
+                    .volume-slider__slider-container{
+                        width:75%;
+                    }
+                    .tw-pill{
+                        display: none;
+                    }
+                    .channel-root__player-background{
+                        background:none !important;
+                    }
+                    #pipbtn{
+                        padding: 3px 5px 0px 5px;
+                        width: var(--button-size-default);
+                        height: var(--button-size-default);
+                        display:flex;
+                        justify-content: center;
+                        align-items: center;
+                        fill: currentcolor;
+                        border-radius: var(--border-radius-medium);
+                        border: var(--border-width-default) solid transparent;
+                    }
+                    #pipbtn:hover{
+                        background:#ffffff36;
+                    }
+                    .persistent-player{
+                        top: 5rem !important;
+                        left: unset !important;
+                        position: fixed !important;
+                        overflow: hidden !important;
+                        z-index: 1000 !important;
+                        height: auto !important;
+                        transition: transform 0.5s ease 0s;
+                        transform-origin: left top !important;
+                        transform: scale(1) !important;
+                        right: 0px !important;
+                        width: 34rem !important;
+
+                    }
+                    div[data-a-target="right-column-chat-bar"]{
+                        top: 19rem;
+                    }
+                    .eejKOb{
+                        margin:0 !important;
+                    }
+                    .iDgWAq{
+                    
+                       top:19rem !important;
+                       flex-shrink: 0 !important;
+                       height: 100% !important;
+                       position: relative !important;
+                       display: block !important;
+                    }
+                    .channel-root__right-column{
+                        height:73% !important;
+                    }
